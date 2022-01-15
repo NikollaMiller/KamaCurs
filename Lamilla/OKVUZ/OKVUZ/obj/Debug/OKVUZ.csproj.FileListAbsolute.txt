@@ -1,0 +1,14 @@
+C:\Users\apkpr\OneDrive\Рабочий стол\Coursachi\Lamilla\OKVUZ\OKVUZ\bin\Debug\OKVUZ.exe.config
+C:\Users\apkpr\OneDrive\Рабочий стол\Coursachi\Lamilla\OKVUZ\OKVUZ\bin\Debug\OKVUZ.exe
+C:\Users\apkpr\OneDrive\Рабочий стол\Coursachi\Lamilla\OKVUZ\OKVUZ\bin\Debug\OKVUZ.pdb
+C:\Users\apkpr\OneDrive\Рабочий стол\Coursachi\Lamilla\OKVUZ\OKVUZ\obj\Debug\OKVUZ.csproj.AssemblyReference.cache
+C:\Users\apkpr\OneDrive\Рабочий стол\Coursachi\Lamilla\OKVUZ\OKVUZ\obj\Debug\OKVUZ.csproj.SuggestedBindingRedirects.cache
+C:\Users\apkpr\OneDrive\Рабочий стол\Coursachi\Lamilla\OKVUZ\OKVUZ\obj\Debug\OKVUZ.MAIN.resources
+C:\Users\apkpr\OneDrive\Рабочий стол\Coursachi\Lamilla\OKVUZ\OKVUZ\obj\Debug\OKVUZ.Properties.Resources.resources
+C:\Users\apkpr\OneDrive\Рабочий стол\Coursachi\Lamilla\OKVUZ\OKVUZ\obj\Debug\OKVUZ.csproj.GenerateResource.cache
+C:\Users\apkpr\OneDrive\Рабочий стол\Coursachi\Lamilla\OKVUZ\OKVUZ\obj\Debug\OKVUZ.csproj.CoreCompileInputs.cache
+C:\Users\apkpr\OneDrive\Рабочий стол\Coursachi\Lamilla\OKVUZ\OKVUZ\obj\Debug\OKVUZ.exe
+C:\Users\apkpr\OneDrive\Рабочий стол\Coursachi\Lamilla\OKVUZ\OKVUZ\obj\Debug\OKVUZ.pdb
+C:\Users\apkpr\OneDrive\Рабочий стол\Coursachi\Lamilla\OKVUZ\OKVUZ\obj\Debug\OKVUZ.Auth.resources
+C:\Users\apkpr\OneDrive\Рабочий стол\Coursachi\Lamilla\OKVUZ\OKVUZ\obj\Debug\OKVUZ.Bloked.resources
+C:\Users\apkpr\OneDrive\Рабочий стол\Coursachi\Lamilla\OKVUZ\OKVUZ\obj\Debug\OKVUZ.ChangeDelete.resources
